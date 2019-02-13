@@ -1,0 +1,86 @@
+[
+  {
+    "id": "24b9ad5f-35ec-4db2-b8e3-529f4e22dd23",
+    "data": [
+      {
+        "text": "Зроби мені піцу",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535542597
+  },
+  {
+    "id": "eaef40f0-e03f-4f24-82c1-04cfdcc116a7",
+    "data": [
+      {
+        "text": "Хочу їсти",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535542597
+  },
+  {
+    "id": "5e73f320-f251-468e-b265-b2de329a867f",
+    "data": [
+      {
+        "text": "Приготуй мені пожерти",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535542597
+  },
+  {
+    "id": "5ec3425d-65ec-4014-9846-e7e7c5bad3ea",
+    "data": [
+      {
+        "text": "Я хочу піццу",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535542597
+  },
+  {
+    "id": "f4789a3f-3d31-4327-afaa-f6e4210af0f4",
+    "data": [
+      {
+        "text": "Я хочу замовити піцу",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535542597
+  },
+  {
+    "id": "a8cf27ad-2ecd-471f-a247-716a15db0797",
+    "data": [
+      {
+        "text": "Хочу жерти",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535542597
+  },
+  {
+    "id": "4a5ef977-21ce-4264-bd48-e04eaa910991",
+    "data": [
+      {
+        "text": "Я зголоднів",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535542597
+  }
+]

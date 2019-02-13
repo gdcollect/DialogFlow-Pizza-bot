@@ -1,0 +1,86 @@
+[
+  {
+    "id": "d9c29734-9f82-40b3-aced-5ff1032c7714",
+    "data": [
+      {
+        "text": "привіт",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8127408e-fdbf-41de-987e-64c64f7bfece",
+    "data": [
+      {
+        "text": "добридень",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2b0572a-f872-4e6b-a638-f8923ffbed7c",
+    "data": [
+      {
+        "text": "добрий день",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9297d2b-09c8-40fe-ab10-ddc034c46c4f",
+    "data": [
+      {
+        "text": "давно не бачились",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "064d4c21-eff6-4495-b290-20e406994b0c",
+    "data": [
+      {
+        "text": "здрастуйте",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64148df0-dfe3-4939-866a-58ab8c5a9743",
+    "data": [
+      {
+        "text": "вітаю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fae3f5f8-d18a-4055-a8e9-9d9c193db7d0",
+    "data": [
+      {
+        "text": "здраствуй",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

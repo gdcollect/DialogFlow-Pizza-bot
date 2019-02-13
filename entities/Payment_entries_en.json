@@ -1,0 +1,26 @@
+[
+  {
+    "value": "Credit card terminal",
+    "synonyms": [
+      "Credit card terminal",
+      "credit card upon delivery",
+      "card upon delivery",
+      "terminal"
+    ]
+  },
+  {
+    "value": "Cash",
+    "synonyms": [
+      "Cash"
+    ]
+  },
+  {
+    "value": "Credit card online",
+    "synonyms": [
+      "Credit card online",
+      "Liqpay",
+      "online",
+      "card"
+    ]
+  }
+]

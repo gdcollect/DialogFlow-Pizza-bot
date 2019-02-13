@@ -1,0 +1,28 @@
+{
+  "id": "c2b0a77b-349c-4be2-bd00-b559ef7ae2d9",
+  "name": "finishorder",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "uk",
+          "speech": "Ваше замовлення прийнято. Дякуємо, що звернулися до нас!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535544190,
+  "fallbackIntent": false,
+  "events": []
+}

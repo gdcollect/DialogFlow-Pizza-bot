@@ -1,0 +1,52 @@
+{
+  "id": "d70bb123-3b5b-467c-a500-0596f7886727",
+  "name": "Payment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5cc589b9-90b1-48ac-9141-484ccdbcdbc7",
+          "required": true,
+          "dataType": "@Payment",
+          "name": "Payment",
+          "value": "$Payment",
+          "prompts": [
+            {
+              "lang": "uk",
+              "value": "Ви не обрали спосіб оплати. Як ви хочете оплатити замовлення?"
+            },
+            {
+              "lang": "en",
+              "value": "How would you like to pay?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "uk",
+          "speech": "Ви можете розрахуватися картою онлайн або готівкою чи картою при отриманні замовлення."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can pay by credit card online or upon delivery as well as in cash."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535543597,
+  "fallbackIntent": false,
+  "events": []
+}

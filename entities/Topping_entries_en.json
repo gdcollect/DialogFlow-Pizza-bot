@@ -1,0 +1,40 @@
+[
+  {
+    "value": "Pepperoni",
+    "synonyms": [
+      "Pepperoni",
+      "Peperoni"
+    ]
+  },
+  {
+    "value": "Salami",
+    "synonyms": [
+      "Salami"
+    ]
+  },
+  {
+    "value": "Onions",
+    "synonyms": [
+      "Onions",
+      "Those things that make me cry when I cut it"
+    ]
+  },
+  {
+    "value": "Pineapple",
+    "synonyms": [
+      "Pineapple"
+    ]
+  },
+  {
+    "value": "Cheese",
+    "synonyms": [
+      "Cheese"
+    ]
+  },
+  {
+    "value": "Mushroom",
+    "synonyms": [
+      "Mushroom"
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "a3946209-1d6b-4975-915f-3c50c9fa777d",
+    "data": [
+      {
+        "text": "Я хочу піцу з ",
+        "userDefined": false
+      },
+      {
+        "text": "ананасом",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535543361
+  },
+  {
+    "id": "beeb20cb-7b00-4158-8c6c-94978db0e215",
+    "data": [
+      {
+        "text": "Будь ласка, піцу з ",
+        "userDefined": false
+      },
+      {
+        "text": "салямі",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535543361
+  },
+  {
+    "id": "c275203f-072b-4d23-bd3c-b4caf0678a81",
+    "data": [
+      {
+        "text": "Піца з ",
+        "userDefined": false
+      },
+      {
+        "text": "сиром",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": true
+      },
+      {
+        "text": " і ",
+        "userDefined": false
+      },
+      {
+        "text": "цибулею",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535543361
+  },
+  {
+    "id": "c2b80fae-c36a-4ab3-9e3d-568eaf7baa10",
+    "data": [
+      {
+        "text": "Я хочу замовити піццу з ",
+        "userDefined": false
+      },
+      {
+        "text": "сиром",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": true
+      },
+      {
+        "text": " і ",
+        "userDefined": false
+      },
+      {
+        "text": "пепероні",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535543361
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "74c6b063-33d1-41ee-912d-eabe155dcbe9",
+    "data": [
+      {
+        "text": "Я хочу розрахуватися готівкою",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535543597
+  },
+  {
+    "id": "16fcf634-4ef6-4d32-be19-bab3a87c5625",
+    "data": [
+      {
+        "text": "Карткою при отриманні",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535543597
+  },
+  {
+    "id": "8c9947aa-466f-40de-94fe-2909738c5ba4",
+    "data": [
+      {
+        "text": "Карткою",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535543597
+  },
+  {
+    "id": "349ce0a6-aa93-424d-b91b-eefd91314477",
+    "data": [
+      {
+        "text": "Чи можна заплатити картою при отриманні?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535543597
+  },
+  {
+    "id": "22990544-b8d2-4541-9aad-bfaa15a9ea70",
+    "data": [
+      {
+        "text": "Картою онлайн",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535543597
+  }
+]

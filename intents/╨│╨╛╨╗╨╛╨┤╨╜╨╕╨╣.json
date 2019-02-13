@@ -1,0 +1,31 @@
+{
+  "id": "2534d420-04fc-4b94-87fc-029f0a967ed0",
+  "name": "голодний",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "uk",
+          "speech": [
+            "Яку піцу ви хочете замовити?",
+            "З чим ви хочете замовити піцу?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535542764,
+  "fallbackIntent": false,
+  "events": []
+}

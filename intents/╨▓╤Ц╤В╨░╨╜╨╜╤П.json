@@ -1,0 +1,36 @@
+{
+  "id": "96d36269-4720-4c7e-a482-0331653205c8",
+  "name": "вітання",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7b8e1ea9-afc3-4155-90c8-b68f2d946b9d",
+          "dataType": "@sys.time-period",
+          "name": "time-period",
+          "value": "$time-period",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "uk",
+          "speech": "Привіт! Це ПіцаБот, і я вас уважно слухаю."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535543087,
+  "fallbackIntent": false,
+  "events": []
+}

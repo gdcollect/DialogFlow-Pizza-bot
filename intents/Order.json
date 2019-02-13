@@ -1,0 +1,48 @@
+{
+  "id": "dc4a1eae-ee37-4200-98dc-39630f33e28f",
+  "name": "Order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3137d2b3-1266-46dd-ab7c-3cbb982ecdf1",
+          "required": true,
+          "dataType": "@Topping",
+          "name": "Topping",
+          "value": "$Topping",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "You haven\u0027t told me the type of pizza you want. What type of pizza do you want?"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "uk",
+          "speech": "Гаразд! Будь ласка, оберіть спосіб оплати."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great! Your pizza is on its way. Please select how you want to pay."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535543361,
+  "fallbackIntent": false,
+  "events": []
+}

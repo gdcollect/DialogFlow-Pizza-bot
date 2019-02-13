@@ -1,0 +1,122 @@
+[
+  {
+    "id": "a9b7b69e-7fb9-4cd3-9348-616f82a00829",
+    "data": [
+      {
+        "text": "Добрий ",
+        "userDefined": false
+      },
+      {
+        "text": "ранок",
+        "alias": "time-period",
+        "meta": "@sys.time-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535543087
+  },
+  {
+    "id": "9849adf0-62fd-4b80-9331-7813d1ede3ff",
+    "data": [
+      {
+        "text": "Здрастуйте",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535543087
+  },
+  {
+    "id": "90e04e43-767f-4fc6-b47a-4d4bcc240178",
+    "data": [
+      {
+        "text": "Добрий ",
+        "userDefined": false
+      },
+      {
+        "text": "вечір",
+        "alias": "time-period",
+        "meta": "@sys.time-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535543087
+  },
+  {
+    "id": "f80ab074-26b2-46a7-852c-16c4a031c1dd",
+    "data": [
+      {
+        "text": "привітик",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535543087
+  },
+  {
+    "id": "52e15aae-20ee-4e48-9e09-5c0f929636ae",
+    "data": [
+      {
+        "text": "Доброго ",
+        "userDefined": false
+      },
+      {
+        "text": "дня",
+        "alias": "time-period",
+        "meta": "@sys.time-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535543087
+  },
+  {
+    "id": "c85a59ed-cb36-4085-84a3-9019cfc7d73c",
+    "data": [
+      {
+        "text": "Вітаю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535543087
+  },
+  {
+    "id": "67093fab-f1b2-4b50-8097-ac8280d5fb48",
+    "data": [
+      {
+        "text": "Привіт!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535543087
+  },
+  {
+    "id": "95eadea7-10ca-4979-84ea-888a840025a4",
+    "data": [
+      {
+        "text": "добрий ",
+        "userDefined": false
+      },
+      {
+        "text": "день",
+        "alias": "time-period",
+        "meta": "@sys.time-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535543087
+  }
+]

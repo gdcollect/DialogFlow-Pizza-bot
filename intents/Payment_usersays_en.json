@@ -1,0 +1,122 @@
+[
+  {
+    "id": "e619380d-9fda-46dc-96f5-1ce6daf25b38",
+    "data": [
+      {
+        "text": "Can I pay by ",
+        "userDefined": false
+      },
+      {
+        "text": "card upon delivery",
+        "alias": "Payment",
+        "meta": "@Payment",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535491504
+  },
+  {
+    "id": "c5ac4730-d81d-40be-9c62-8850e87319bb",
+    "data": [
+      {
+        "text": "Can I pay by credit ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "Payment",
+        "meta": "@Payment",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535491621
+  },
+  {
+    "id": "44766fe4-283b-466f-b9da-01e781f33f92",
+    "data": [
+      {
+        "text": "I would like to pay ",
+        "userDefined": false
+      },
+      {
+        "text": "online",
+        "alias": "Payment",
+        "meta": "@Payment",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535491504
+  },
+  {
+    "id": "172a0609-c0d4-467b-b080-dfa16247b89b",
+    "data": [
+      {
+        "text": "Can I pay in ",
+        "userDefined": false
+      },
+      {
+        "text": "cash",
+        "alias": "Payment",
+        "meta": "@Payment",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535491621
+  },
+  {
+    "id": "d229cf54-41de-42c5-a0d6-35c4b0d9fb58",
+    "data": [
+      {
+        "text": "I would like to pay by ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "Payment",
+        "meta": "@Payment",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535491504
+  },
+  {
+    "id": "452d42b1-3ac0-44c5-afe9-e99831536a83",
+    "data": [
+      {
+        "text": "I would like to pay in ",
+        "userDefined": false
+      },
+      {
+        "text": "cash",
+        "alias": "Payment",
+        "meta": "@Payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535491504
+  }
+]

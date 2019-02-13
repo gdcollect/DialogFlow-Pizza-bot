@@ -1,0 +1,98 @@
+[
+  {
+    "id": "c1148f59-d067-4020-88aa-1c6d4f0f3d7d",
+    "data": [
+      {
+        "text": "I\u0027m hungry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535488541
+  },
+  {
+    "id": "4dfaf5b2-5f5b-4eec-a8a3-ed24c74ee104",
+    "data": [
+      {
+        "text": "I\u0027d like to order pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535488541
+  },
+  {
+    "id": "54aba702-9bc1-4699-b221-be05c4fedafd",
+    "data": [
+      {
+        "text": "Feed me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535488541
+  },
+  {
+    "id": "a5185105-81e8-42a0-85ab-8f8e832735be",
+    "data": [
+      {
+        "text": "I want pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535488541
+  },
+  {
+    "id": "2667be13-73af-43c5-8699-516f8bb803d9",
+    "data": [
+      {
+        "text": "I\u0027m so hungry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535488541
+  },
+  {
+    "id": "692884b9-e326-4296-a7c3-cc4465fd07bb",
+    "data": [
+      {
+        "text": "Food me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535488541
+  },
+  {
+    "id": "bcc1f60d-1c7a-4f6d-b650-e98aa8f5257d",
+    "data": [
+      {
+        "text": "Give me pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535488541
+  },
+  {
+    "id": "dcde7d3b-0481-4484-8e19-2977f6dae071",
+    "data": [
+      {
+        "text": "Please order pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535488541
+  }
+]
